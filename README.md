@@ -1,4 +1,4 @@
-<img width="807" height="143" alt="image" src="https://github.com/user-attachments/assets/590cf4bc-2024-4c16-96fc-5b6278d99956" /># 2026-RETAIL-SALES-PERFORMANCE-DASHBOARD(EXCEL)
+# 2026-RETAIL-SALES-PERFORMANCE-DASHBOARD(EXCEL)
 
 ## Project Overview
 
